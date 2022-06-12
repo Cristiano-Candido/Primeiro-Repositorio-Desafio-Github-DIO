@@ -1,2 +1,5 @@
 # Primeiro-Repositorio-Desafio-Github-DIO
-Desafio de Projeto Git/GitHub
+Repositório sobre desafio de projeto Git/GitHub
+
+## Links Úteis
+[6 Comandos básicos Git](https://www.digitalhouse.com/br/blog/principais-comandos-git/)
