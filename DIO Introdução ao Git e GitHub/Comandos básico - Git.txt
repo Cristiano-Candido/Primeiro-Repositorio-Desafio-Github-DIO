@@ -1,0 +1,35 @@
+                                        
+                                                  Comandos Básico - Git/GitHub
+
+
+Comandos Git x GitHub: é a mesma coisa?  
+
+O "Git" é o sistema de versionamento em si, é onde você cria “commits” e pode registrar o histórico de modificações do seu projeto, criar “branches” e, caso algo dê errado, dar “rollback” para uma versão anterior. 
+
+O "Github" é apenas uma das muitas centrais de repositórios remotos existentes.
+
+                                            
+                                 
+                               (Listamos Alguns Comandos Abaixo e Uma Breve Explicação)
+
+*Git add
+Este comando adiciona os arquivos solicitados ao ambiente de stage, é uma forma de dizer para o git que você deseja que as modificações daquele arquivo sejam gravadas na próxima remessa. Um exemplo de utilização é: "git add ." onde o ponto representa todos os arquivos na pasta.
+
+*Git commit
+Agora fazemos a gravação em si das modificações, desta forma criamos um snapshot do estado atual do nosso projeto. Uma forma muito usada é o git commit -m “descrição das atualizações do projeto” onde o -m é uma flag que aponta para a mensagem de descrição.
+
+*Git push
+Por fim precisamos subir essas modificações no nosso repositório remoto, para isso basta utilizar o comando git push e, se já estiver tudo devidamente configurado, os arquivos serão salvos no repositório remoto correspondente ao seu repositório local!
+
+*Git init
+Cria repositório dentro de uma pasta. (Inicializa um repositório vazio ou reinicializa um já existente.)
+
+*Git status
+Este comando permite ver quais arquivos estão sendo “rastreados” pelo git e quais modificações já foram enviadas para o stage. É bem útil para quando se tem dúvidas sobre o que está sendo enviado
+
+*Git Pull
+Serve para buscar e trazer mudanças do repositório remoto para o repositório local.
+
+*Git Push
+Utilizado para enviar o arquivo do repositório local para o repositório remoto.
+
